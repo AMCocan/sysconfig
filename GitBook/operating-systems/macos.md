@@ -30,9 +30,15 @@ These configurations are for MacOS specifically. Checkout the other pages under 
 ***
 
 1. [Git](https://git-scm.com)
-2. [VSCode](https://code.visualstudio.com)
-3. [Python3](https://www.python.org)
-4. [OperaGX](https://www.opera.com/gx)
+2. [UTM](https://docs.getutm.app)
+3. [Boop](https://boop.okat.best)
+4. [Funter](https://nektony.com/funter)
+5. [VSCode](https://code.visualstudio.com)
+6. [Python3](https://www.python.org)
+7. [Discord](https://discord.com)
+8. [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
+9. [DeVinci Resolve 18](https://www.blackmagicdesign.com/products/davinciresolve)
+10. [OperaGX](https://www.opera.com/gx)
 
 ***
 
@@ -45,14 +51,6 @@ Not yet available.
 ***
 
 ## VSCode Setup
-
-{% hint style="danger" %}
-Not yet available.
-{% endhint %}
-
-***
-
-## OperaGX Setup
 
 {% hint style="danger" %}
 Not yet available.
