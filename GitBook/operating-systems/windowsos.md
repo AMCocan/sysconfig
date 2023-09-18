@@ -25,7 +25,7 @@ layout:
 These configurations are for WindowsOS specifically. Checkout the other pages under operating systems for different options.
 {% endhint %}
 
-## Softwares & Locations
+## Software's & Locations
 
 ***
 
@@ -38,9 +38,17 @@ These configurations are for WindowsOS specifically. Checkout the other pages un
 
 ## Git Setup
 
-{% hint style="danger" %}
-Not yet available.
+{% hint style="info" %}
+This info is for WindowsOS instillation of git.
 {% endhint %}
+
+> #### [Installing on Windows](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <a href="#_installing_on_windows" id="_installing_on_windows"></a>
+>
+> There are also a few ways to install Git on Windows. The most official build is available for download on the Git website. Just go to [https://git-scm.com/download/win](https://git-scm.com/download/win) and the download will start automatically. Note that this is a project called Git for Windows, which is separate from Git itself; for more information on it, go to [https://gitforwindows.org](https://gitforwindows.org/).
+>
+> To get an automated installation you can use the [Git Chocolatey package](https://community.chocolatey.org/packages/git). Note that the Chocolatey package is community maintained.
+
+_\*\* More information on configuring git can be found in_ [_the documentation for git_](https://git-scm.com/docs/git-config)_._
 
 ***
 
