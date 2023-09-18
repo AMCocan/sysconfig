@@ -39,7 +39,7 @@ These configurations are for WindowsOS specifically. Checkout the other pages un
 ## Git Setup
 
 {% hint style="info" %}
-This info is for WindowsOS instillation of git.
+This info is for WindowsOS installation of git.
 {% endhint %}
 
 > #### [Installing on Windows](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <a href="#_installing_on_windows" id="_installing_on_windows"></a>
